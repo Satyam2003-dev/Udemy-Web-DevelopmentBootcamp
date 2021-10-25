@@ -1,0 +1,48 @@
+
+body{
+background-color: #e1eeee;
+margin-top: 2%;
+margin-bottom: 2%;
+margin-left: 2%;
+margin-right: 2%;
+}
+img{
+    border: 8px solid #e1eeee;   
+    border-radius: 100%;
+}
+img:hover{
+    border: 8px solid #0000CD; 
+    cursor: pointer;  
+}
+h1:hover{
+    color: forestgreen;
+    cursor: pointer;
+}
+h3:hover{
+    color: #228B22 ;
+    cursor: pointer;
+}
+h1,h3{
+    color: #63bfbf;
+}
+hr{
+    border-style:none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 4%;
+}
+.hobby{
+    font-size: 30px;  
+}
+.hobby:hover{
+    color: gold;
+    cursor: pointer;
+}
+.contact{
+    font-size: 30px;
+}
+.contact:hover{
+    color: silver;
+    cursor: pointer;
+}
